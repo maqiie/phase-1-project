@@ -16,11 +16,15 @@ body{
 
 }
 .container{
-  background-color: white;
+  background-color: rgb(145, 151, 160);
   padding: 10px 24px;
   border-radius: 20px;
   width: 490px;
 
+}
+.container:hover{
+  background-color: coral;
+  transition: 20s;
 }
 h2{
   color: rgb(41, 44, 44);
