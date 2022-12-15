@@ -7,7 +7,7 @@
 
 
 body{
-  /* background-image: url ("balance.jpg"); */
+  background-image: url("balance.jpg"); 
   background-color: blanchedalmond;
   height: 100vh;
   display: flex;
