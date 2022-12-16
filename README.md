@@ -1,4 +1,4 @@
-# phase one project Challenge 
+# phase one project.
 
 # currency converter
 
@@ -16,3 +16,12 @@ For this project i will be working on the currency converter tool with the help 
 
 
   ## Installations
+  -Download the basics first i.e vscode.
+  -To initiate the backend, run the following command while inside the project directory: json-server --watch db.json.
+  -fetch the data from the link above to your javscript.
+
+
+   # Guidelines
+
+ ## Core Deliverables
+ -The user should be able to input any amount in any curency and get the resuslt of it in the cureency of his choice.

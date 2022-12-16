@@ -102,3 +102,13 @@ span{
   transform: 4s;
   color: cyan;
 }
+
+.table{
+  position: relative;
+  color: rgb(167, 11, 11);
+  align-items: right;
+  justify-content: right;
+  position: fixed;
+  width: 100px;
+  dis
+}
