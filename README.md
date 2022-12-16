@@ -25,3 +25,17 @@ For this project i will be working on the currency converter tool with the help 
 
  ## Core Deliverables
  -The user should be able to input any amount in any curency and get the resuslt of it in the cureency of his choice.
+
+
+
+
+# License
+
+
+
+
+ # Author 
+ 
+ - This project was contributed by:
+
+        markpaul mwenda: https://github.com/maqiie
