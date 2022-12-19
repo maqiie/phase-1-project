@@ -13,6 +13,7 @@ For this project i will be working on the currency converter tool with the help 
  1. Text editor such as VScode is required.
  2. The use of json-server to retrieved data.
  3. Knwowledge of HTML, JavaScript and CSS.
+ 4. Accesss to the internet so that you can bea able to view the live trading widget.
 
 
   ## Installations
@@ -31,6 +32,7 @@ For this project i will be working on the currency converter tool with the help 
 
 # License
 
+- This project is licensed under the MIT  Public License 
 
 
 
