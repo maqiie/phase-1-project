@@ -103,23 +103,11 @@ span{
   color: cyan;
 }
 
-.table{
-  position: fixed;
-  color: rgb(167, 11, 11);
-  align-items: right;
-  justify-content: right;
-  
-  width: 100px;
-  display: flex;
-  z-index: 1;
-  margin: 0;
-  padding: 0;
-  top: 0;
-  
-  padding-top: 60px;
-  height: 100%;
-  width: 100px;
-  
-  margin-bottom: 10px;
-  display:inline;
-}
+ .tradingview-widget-container{
+display: flex;
+position: absolute;
+bottom: 0;
+left: 0;
+
+ 
+} 
